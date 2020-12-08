@@ -1,2 +1,2 @@
 # RickBin
-Ricardo's useful scripts
+Ricardo's useful scripts and programs
