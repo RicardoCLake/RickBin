@@ -1,0 +1,9 @@
+Esse utilitário é para matar algum programa em execução
+    Formato:    COMANDO [opção] nome_do_programa 
+
+Opções:
+    -h --help   Traz a esse menu
+    -v          Mostra a versão
+    --other     Busca outro processo com o mesmo nome (busca um PID maior)
+
+Ainda é pouco, mas com o tempo deve melhorar! ;)

@@ -1,4 +1,4 @@
-c#!/bin/bash
+#!/bin/bash
 
 if [ $# -lt 1 ]; then
    echo "Faltou dizer o que é para matar!"
